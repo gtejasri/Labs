@@ -25,7 +25,7 @@ class Person {
 class Account {
 
 	long AccNum;
-	double balance=500;
+	double balance = 500;
 	Person accHolder;
 
 	public long getAccNum() {
